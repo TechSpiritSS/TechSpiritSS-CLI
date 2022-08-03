@@ -1,0 +1,29 @@
+{
+    "name": "techspiritss",
+    "version": "2.0.4",
+    "description": "My Bio via `npx techspiritss`",
+    "bin": {
+        "techspiritss": "./index.js"
+    },
+    "dependencies": {
+        "cli-welcome": "^2.2.2"
+    },
+    "keywords": [
+        "techspiritss",
+        "techspiritss-cli",
+        "sidharth",
+        "sidharth-sethi",
+        "sidharth-sethi-techspiritss",
+        "techspiritss-cli-bio",
+        "bio",
+        "bio-cli",
+        "cli"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "author": {
+        "name": "Sidharth Sethi",
+        "email": "techspiritss@duck.com"
+    },
+    "repository": "TechSpiritSS/TechSpiritSS-CLI"
+}
